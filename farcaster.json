@@ -1,0 +1,31 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "Word Scramble Challenge",
+    "iconUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_584fe40f-ac3e-4ada-a16c-07f0375c87f8-YUgxXWqwhJcj8RcM60uxSKbnaAxFOX",
+    "homeUrl": "https://child-shop-650.app.ohara.ai",
+    "imageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_584fe40f-ac3e-4ada-a16c-07f0375c87f8-YUgxXWqwhJcj8RcM60uxSKbnaAxFOX",
+    "buttonTitle": "Open with Ohara",
+    "splashImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/farcaster/splash_images/splash_image1.svg",
+    "splashBackgroundColor": "#ffffff",
+    "tags": [
+      "ohara",
+      "mini-app",
+      "base",
+      "farcaster"
+    ],
+    "primaryCategory": "entertainment",
+    "ogTitle": "Word Scramble Challenge",
+    "ogImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_584fe40f-ac3e-4ada-a16c-07f0375c87f8-YUgxXWqwhJcj8RcM60uxSKbnaAxFOX"
+  },
+  "baseBuilder": {
+    "allowedAddresses": [
+      ""
+    ]
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjM5Nzg2NywidHlwZSI6ImF1dGgiLCJrZXkiOiIweDg5MDZDMmJkMTkwRmM2NGEzODdGMGU0M2JkNzNDNjdiZDdGYjk5NjkifQ",
+    "payload": "eyJkb21haW4iOiJjaGlsZC1zaG9wLTY1MC5hcHAub2hhcmEuYWkifQ",
+    "signature": "9c4HfcwMS2ZT9h9BE0dMdvtZDRBFknsuExApTwgNndomJ0QY8X8HgYx6OHridEu8kh9RTLyjXAT6QUw1JiGYYxs="
+  }
+}
